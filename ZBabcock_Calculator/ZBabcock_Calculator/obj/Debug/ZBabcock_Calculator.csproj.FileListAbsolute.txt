@@ -1,0 +1,11 @@
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\bin\Debug\ZBabcock_Calculator.exe.config
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\bin\Debug\ZBabcock_Calculator.exe
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\bin\Debug\ZBabcock_Calculator.pdb
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.frmCalc.resources
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.exe
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.pdb
+C:\Users\Cyberadmin\Desktop\MTC20180305\ZBabcock_Calculator\ZBabcock_Calculator\obj\Debug\ZBabcock_Calculator.brule.resources
